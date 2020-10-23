@@ -1,1 +1,2 @@
-Teste
+print("Oi")
+print("Tchau")
